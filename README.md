@@ -1,6 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 #Kodluyoruz Ilk Repo
 
@@ -18,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code Programından açınız.
 
 Linux için:
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+> cd kodluyoruzilkrepo code .
 
 #### Contributing
 
